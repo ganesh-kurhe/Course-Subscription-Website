@@ -1,4 +1,4 @@
-# Course Subscription Website (MERN Stack)
+# Course Subscription Website 
 
 Welcome to the **Course Subscription Platform** repository.  
 This is a full-stack MERN web application that allows users to register, log in, browse available courses, subscribe to free or paid courses, and view their enrolled courses along with subscription details.
