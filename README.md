@@ -1,34 +1,59 @@
 # Course Subscription Platform (MERN Stack)
 
-A full-stack MERN application that allows users to sign up, log in, browse courses, subscribe to free or paid courses, and view their subscribed courses along with subscription date.
+Welcome to the **Course Subscription Platform** repository.  
+This is a full-stack MERN web application that allows users to register, log in, browse available courses, subscribe to free or paid courses, and view their enrolled courses along with subscription details.
 
 ---
 
-## 🌐 Live Demo
+## 📑 Table of Contents
 
-- **Frontend (Vercel):** https://your-frontend-url.vercel.app
-- **Backend (Render):** https://your-backend-url.onrender.com
+- [Overview](#overview)
+- [Features](#features)
+  - [For Users](#for-users)
+- [Tech Stack](#tech-stack)
+- [Installation (Local Development)](#installation-local-development)
+- [Deployment](#deployment)
+- [Screenshots](#screenshots)
+- [Live Demo](#live-demo)
+
+---
+
+## 📌 Overview
+
+The Course Subscription Platform is designed to simulate a real-world online learning system.
+
+Users can:
+
+- Create an account
+- Log in securely using JWT authentication
+- Browse courses
+- Subscribe to free or paid courses using promo codes
+- Track enrolled courses including price paid and subscription date
+
+The platform follows modern development practices with a React frontend and a Node.js + Express backend connected to MongoDB Atlas.
 
 ---
 
 ## ✨ Features
 
-- User Signup & Login
-- JWT Authentication
-- Browse available courses
-- Subscribe to free & paid courses
-- Promo code support
-- View subscribed courses:
+### For Users
+
+- User registration and login
+- JWT-based secure authentication
+- Browse all available courses
+- Subscribe to free and paid courses
+- Promo code support for paid courses
+- View subscribed courses including:
   - Course title
   - Price paid
   - Subscription date
-- Protected routes
-- Toast notifications
-- Modern UI with Tailwind CSS
+- Protected routes for authenticated users
+- Toast notifications for actions
+- Responsive UI using Tailwind CSS
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -42,59 +67,19 @@ A full-stack MERN application that allows users to sign up, log in, browse cours
 - Express.js
 - MongoDB Atlas
 - Mongoose
-- JWT
+- JSON Web Tokens (JWT)
 - bcryptjs
 
 ---
 
+## ⚙️ Installation (Local Development)
+
+Follow these steps to set up the project locally:
+
 ---
 
-## ⚙️ Local Development Setup
-
-### Clone Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/course-subscription-mern.git
 cd course-subscription-mern
-
-## 🔧 Backend Setup (Local)
-
-Navigate to the backend directory and install dependencies:
-
-```bash
-cd backend
-npm install
-
-### Create .env file inside backend/
-PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
-JWT_SECRET=your_jwt_secret_key
-
-Start Backend Server
-npm start
-
-Backend will run at:
-http://localhost:5000
-
-Test Backend API
-http://localhost:5000/courses
-
-Frontend Setup (Local)
-Navigate to the frontend directory and install dependencies:
-cd ../frontend
-npm install
-
-Update API Base URL
-frontend/src/api/axios.js
-
-For local development, set:
-baseURL: "http://localhost:5000"
-
-Start Frontend Server
-npm run dev
-
-Frontend will run at:
-http://localhost:5173
-
-
-
