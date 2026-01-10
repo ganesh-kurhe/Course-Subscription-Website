@@ -76,10 +76,26 @@ The platform follows modern development practices with a React frontend and a No
 
 Follow these steps to set up the project locally:
 
----
-
-### 1️⃣ Clone the Repository
-
+1. **Clone the repository** 
 ```bash
 git clone https://github.com/your-username/course-subscription-mern.git
 cd course-subscription-mern
+
+2. **Backend Setup**
+   ```bash
+   cd backend
+   npm install
+
+3. **Set up environment variables**
+   Create a .env file in the root directory and add the following:
+   ```bash
+   PORT=5000
+   MONGO_URI=your_mongodb_atlas_connection_string
+   JWT_SECRET=your_jwt_secret_key
+
+4. **Start the backend server:**
+   ```bash
+   npm start
+
+
+
