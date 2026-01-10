@@ -79,7 +79,6 @@ Follow these steps to set up the project locally:
 1. **Clone the repository** 
    ```bash
    git clone https://github.com/your-username/course-subscription-mern.git
-c  d course-subscription-mern
 
 2. **Backend Setup**
    ```bash
@@ -96,6 +95,22 @@ c  d course-subscription-mern
 4. **Start the backend server:**
    ```bash
    npm start
+
+5. **Frontend Setup**
+   ```bash
+   cd ../frontend
+   npm install
+
+6. **Update API base URL:**
+   ```bash
+   baseURL: "http://localhost:5000"
+
+7. **Start frontend:**
+   ```bash
+   npm run dev
+
+  
+
 
 
 
