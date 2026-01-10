@@ -109,6 +109,33 @@ Follow these steps to set up the project locally:
    ```bash
    npm run dev
 
+
+## 🚀 Deployment
+
+### Backend (Render)
+
+- Push backend to GitHub
+- Create a Web Service on Render
+- Set:
+   - Build Command: npm install
+   - Start Command: node server.js
+- Add environment variables:
+   - PORT
+   - MONGO_URI
+   - JWT_SECRET
+- Deploy
+
+### Frontend (Vercel)
+
+- Push frontend to GitHub
+- Import project into Vercel
+- Set:
+   - Framework: Vite
+   - Build Command: npm run build
+   - Output Directory: dist
+- Add vercel.json for React Router routing
+- Deploy
+
   
 
 
