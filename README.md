@@ -138,8 +138,8 @@ Follow these steps to set up the project locally:
 
 ## 🖼️ Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+### Signup Page
+![Signup Page](screenshots/home.png)
 
 ### Login Page
 ![Login Page](screenshots/login.png)
@@ -147,8 +147,11 @@ Follow these steps to set up the project locally:
 ### Courses Page
 ![Courses Page](screenshots/courses.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
+### Course Detail Page
+![Course Detail Page](screenshots/dashboard.png)
+
+### My Courses Page
+![My Courses Page](screenshots/dashboard.png)
 
 
   
