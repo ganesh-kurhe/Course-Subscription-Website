@@ -145,13 +145,13 @@ Follow these steps to set up the project locally:
 ![Login Page](screenshots/Login.png)
 
 ### Courses Page
-![Courses Page](screenshots/courses list.png)
+![Courses Page](screenshots/courseslist.png)
 
 ### Course Detail Page
-![Course Detail Page](screenshots/course detail.png)
+![Course Detail Page](screenshots/coursedetail.png)
 
 ### My Courses Page
-![My Courses Page](screenshots/my Courses.png)
+![My Courses Page](screenshots/myCourses.png)
 
 
   
