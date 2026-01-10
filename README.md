@@ -139,19 +139,19 @@ Follow these steps to set up the project locally:
 ## 🖼️ Screenshots
 
 ### Signup Page
-![Signup Page](screenshots/home.png)
+![Signup Page](screenshots/Signup.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/Login.png)
 
 ### Courses Page
-![Courses Page](screenshots/courses.png)
+![Courses Page](screenshots/courses list.png)
 
 ### Course Detail Page
-![Course Detail Page](screenshots/dashboard.png)
+![Course Detail Page](screenshots/course detail.png)
 
 ### My Courses Page
-![My Courses Page](screenshots/dashboard.png)
+![My Courses Page](screenshots/my Courses.png)
 
 
   
