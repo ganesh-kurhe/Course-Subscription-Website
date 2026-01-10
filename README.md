@@ -136,6 +136,21 @@ Follow these steps to set up the project locally:
 - Add vercel.json for React Router routing
 - Deploy
 
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Courses Page
+![Courses Page](screenshots/courses.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+
   
 
 
