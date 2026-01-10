@@ -82,7 +82,7 @@ Follow these steps to set up the project locally:
 
 2. **Backend Setup**
    ```bash
-   cd backend
+   cd course-subscription-backend
    npm install
 
 3. **Set up environment variables**
@@ -98,7 +98,7 @@ Follow these steps to set up the project locally:
 
 5. **Frontend Setup**
    ```bash
-   cd ../frontend
+   cd ../course-subscription-frontend
    npm install
 
 6. **Update API base URL:**
