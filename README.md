@@ -1,4 +1,4 @@
-# Course Subscription Platform (MERN Stack)
+# Course Subscription Website (MERN Stack)
 
 Welcome to the **Course Subscription Platform** repository.  
 This is a full-stack MERN web application that allows users to register, log in, browse available courses, subscribe to free or paid courses, and view their enrolled courses along with subscription details.
@@ -152,6 +152,11 @@ Follow these steps to set up the project locally:
 
 ### My Courses Page
 ![My Courses Page](screenshots/myCourses.png)
+
+## 🌐 Live Demo
+
+Check out the live version of Course Subscription Website:  
+👉 [Course Subscription Website](https://course-subscription-frontend.vercel.app/)
 
 
   
