@@ -5,7 +5,7 @@ This is a full-stack MERN web application that allows users to register, log in,
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -18,7 +18,7 @@ This is a full-stack MERN web application that allows users to register, log in,
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The Course Subscription Platform is designed to simulate a real-world online learning system.
 
@@ -34,7 +34,7 @@ The platform follows modern development practices with a React frontend and a No
 
 ---
 
-## ✨ Features
+##  Features
 
 ### For Users
 
@@ -53,7 +53,7 @@ The platform follows modern development practices with a React frontend and a No
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -72,7 +72,7 @@ The platform follows modern development practices with a React frontend and a No
 
 ---
 
-## ⚙️ Installation (Local Development)
+##  Installation (Local Development)
 
 Follow these steps to set up the project locally:
 
@@ -110,7 +110,7 @@ Follow these steps to set up the project locally:
    npm run dev
 
 
-## 🚀 Deployment
+##  Deployment
 
 ### Backend (Render)
 
@@ -136,7 +136,7 @@ Follow these steps to set up the project locally:
 - Add vercel.json for React Router routing
 - Deploy
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Signup Page
 ![Signup Page](screenshots/Signup.png)
@@ -153,7 +153,7 @@ Follow these steps to set up the project locally:
 ### My Courses Page
 ![My Courses Page](screenshots/myCourses.png)
 
-## 🌐 Live Demo
+##  Live Demo
 
 Check out the live version of Course Subscription Website:  
 👉 [Course Subscription Website](https://course-subscription-frontend.vercel.app/)
